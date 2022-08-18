@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">company authentication task</string>
+    <string name="facebook_app_id">3298312457080654</string>
+    <string name="fb_login_protocol_scheme">fb3298312457080654</string>
+    <string name="facebook_client_token">28bb0f65076d49b34295294e2abda310</string>
+</resources>
